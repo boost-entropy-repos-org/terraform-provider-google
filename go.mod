@@ -17,7 +17,7 @@ require (
 	github.com/hashicorp/go-version v1.2.1
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/hashicorp/hcl/v2 v2.6.0 // indirect
-	github.com/hashicorp/terraform-plugin-sdk/v2 v2.4.2
+	github.com/hashicorp/terraform-plugin-sdk/v2 v2.4.3
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/hashstructure v1.1.0
 	github.com/onsi/ginkgo v1.8.0 // indirect
@@ -31,7 +31,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
 	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c // indirect
 	golang.org/x/tools v0.1.0 // indirect
-	google.golang.org/api v0.38.0
+	google.golang.org/api v0.40.0
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
 
